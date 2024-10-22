@@ -1,2 +1,4 @@
 név: Borók Máté
 osztály: 10.F
+
+Ezt Terminálal csináltam
